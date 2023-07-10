@@ -27,6 +27,7 @@ class MainActivity : ComponentActivity() {
 
                     Log.d("github","second commit")
                     Log.d("github","third commit on new branch")
+                    Log.d("github","4th commit on new branch again")
                 }
             }
         }
