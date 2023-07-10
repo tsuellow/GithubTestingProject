@@ -26,6 +26,7 @@ class MainActivity : ComponentActivity() {
                     Greeting("Android")
 
                     Log.d("github","second commit")
+                    Log.d("github","third commit on new branch")
                 }
             }
         }
